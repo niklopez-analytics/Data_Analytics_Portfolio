@@ -23,14 +23,18 @@ This project presents a comprehensive **HR Attrition Dashboard** built using **P
 
 ---
 
-## 📂 Dataset Overview
+## 📂 Dataset Source
 
-The dataset used in this project is a **synthetic HR dataset** consisting of approximately 300 employee records. Key attributes include:
+This project uses the [Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) by **Rich Huebner**, available publicly on Kaggle for educational and non-commercial use.
 
-- Employee demographics (age, gender, marital status, race)
-- Job data (department, job title, performance score)
-- Tenure and employment status
-- Termination reasons and engagement survey scores
+## 📊 Data Overview
+
+The dataset contains 300+ employee records with attributes such as:
+- Employment status (active, terminated)
+- Tenure, performance score, engagement score
+- Demographics (age, gender, marital status, race)
+- Department, job title, recruitment source
+- Termination reason and satisfaction score
 
 ---
 
