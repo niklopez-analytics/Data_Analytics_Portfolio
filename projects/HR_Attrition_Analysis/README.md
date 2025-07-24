@@ -106,13 +106,6 @@ The dataset contains 300+ employee records with attributes such as:
 
 > *(Upload and adjust images accordingly in your repo)*
 
----
-
-## 📁 File Info
-
-- `HRAttritionDashboard.pbix` – Power BI file
-- `HRDataset.csv` – Source data
-- `README.md` – Project documentation
 
 ---
 
