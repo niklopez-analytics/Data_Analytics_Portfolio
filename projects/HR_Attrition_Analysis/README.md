@@ -43,7 +43,7 @@ The dataset contains 300+ employee records with attributes such as:
 ### 🔹 Executive KPIs
 - Overall **attrition rate**
 - Total headcount (active vs terminated)
-- Average employee tenure
+- Average employee tenure (active)
 - Monthly attrition trend (line chart)
 
 ### 🔹 Attrition by Tenure Bracket
@@ -51,17 +51,17 @@ The dataset contains 300+ employee records with attributes such as:
 - Uses **dynamic color logic** (DAX) to emphasize the peak group
 - Insight: Employees with 3–5 years of tenure were most likely to leave
 
-### 🔹 Termination Reasons (Pareto Chart)
+### 🔹 Termination Reasons (Pareto Chart Analysis)
 - Ranks top reasons for employee exits
 - Insight: ~80% of attrition is caused by a few recurring reasons like “Better opportunity” or “Dissatisfaction”
 
-### 🔹 Engagement vs Tenure Analysis
-- Scatterplot comparing survey scores and length of service
-- Insight: No clear trend — disengagement occurs at all tenure levels
+### 🔹 Absentism Analysis
+- Visualizes absentism of employees who left the company
+- Insight: Production Department produces high absentism for terminated employees. 1 - 3 years of tenurity among terminated employees produced the highest absentism.
 
 ### 🔹 Department & Demographics Filters
-- Analyze attrition trends per **department**, **age group**, **marital status**, etc.
-- Insight: Younger and single employees show higher exit rates
+- Analyze attrition per **department**, **age group**, **tenure**, etc.
+- Insight: Younger and employees in **production department** show higher exit rates
 
 ### 🔹 Dynamic Formatting with DAX
 - Tenure bars dynamically change color based on highest attrition count
@@ -95,6 +95,7 @@ The dataset contains 300+ employee records with attributes such as:
   - Dynamic color formatting
   - Ranking with `RANKX` and `ALLSELECTED`
 - Practiced transforming raw HR data into **actionable business insights**.
+- Performed data cleaning techniques.
 
 ---
 
@@ -103,9 +104,6 @@ The dataset contains 300+ employee records with attributes such as:
 | Overview | Attrition by Tenure | Termination Reasons |
 |---------|---------------------|---------------------|
 | ![Overview](./assets/dashboard-overview.png) | ![Tenure](./assets/tenure-analysis.png) | ![Reasons](./assets/termination-reasons.png) |
-
-> *(Upload and adjust images accordingly in your repo)*
-
 
 ---
 
