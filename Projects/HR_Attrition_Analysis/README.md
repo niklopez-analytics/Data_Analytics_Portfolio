@@ -41,7 +41,7 @@ This project is a Power BI dashboard that analyzes employee attrition based on t
   - Absentism of Past Employees per Department.
   - Absentism of Past Employees by Tenure Bracket.
   - **Purpose**: To understand what are the common drivers of attrition.
-  <img width="1441" height="805" alt="image" src="https://github.com/user-attachments/assets/4104cab0-7601-43d2-950a-6f07e6308244" />
+<img width="1441" height="805" alt="image" src="https://github.com/user-attachments/assets/4104cab0-7601-43d2-950a-6f07e6308244" />
 
 
 ---
