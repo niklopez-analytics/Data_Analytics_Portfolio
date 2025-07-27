@@ -106,8 +106,8 @@ Insight: ~80% of attrition is caused by a few recurring reasons like “Better o
 ## 📁 File Info
 
 - [Power BI file](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/67e9cffe6c0e5dca53fa234c456ab2561f83dbe0/Projects/HR_Attrition_Analysis/HR%20Analytics.pbix)
-- [Source data](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/67e9cffe6c0e5dca53fa234c456ab2561f83dbe0/Projects/HR_Attrition_Analysis/HRDataset_v14.csv) – 
-- [README.md](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/67e9cffe6c0e5dca53fa234c456ab2561f83dbe0/Projects/HR_Attrition_Analysis/README.md)
+- [Source data](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/67e9cffe6c0e5dca53fa234c456ab2561f83dbe0/Projects/HR_Attrition_Analysis/HRDataset_v14.csv)
+- [README.md](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/d162e374351d1ff5f2ae0fc1ef55d1a337719e72/Projects/HR_Attrition_Analysis/README.md)
 
 
 
