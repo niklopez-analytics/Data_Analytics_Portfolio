@@ -6,19 +6,25 @@ Welcome to my Data Analytics Portfolio! This repository is a curated collection 
 
 ## 📂 Featured Projects
 
-### 1. [📈 Financial Performance Dashboard](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/Financial_Performance_Analysis/README.md)
-**Objective:** Analyze company-wide financial performance by tracking revenue, profit, margin, and product performance.
+### 1. **📈 Financial Performance Dashboard** 
+[Click Me For More Info](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/Financial_Performance_Analysis/README.md)
+
+📌 **Objective:** Analyze company-wide financial performance by tracking revenue, profit, margin, and product performance.
 
 📌 **Business Impact:** Helps executives understand profitability drivers and optimize revenue across products and regions.
 
 
-### 2. [🛠️ Downtime Dashboard – Soda Bottling Operations](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/Downtime_Analysis/README.md)
-**Objective:** Monitor and reduce production downtime by identifying major causes, operator performance, and system inefficiencies.
+### 2. 🛠️ Downtime Dashboard – Soda Bottling Operations
+[Click Me For More Info](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/Downtime_Analysis/README.md)
+
+📌 **Objective:** Monitor and reduce production downtime by identifying major causes, operator performance, and system inefficiencies.
 
 📌 **Business Impact:** Supports plant managers and operations teams in improving production uptime, reducing waste, and enhancing line efficiency.
 
-### 3. [👥 HR Attrition Dashboard](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/HR_Attrition_Analysis/README.md)
-**Objective:** analyze employee turnover across various dimensions such as department, tenure, job role, age group, and gender. 
+### 3. 👥 HR Attrition Dashboard
+[Click Me For More Info](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/HR_Attrition_Analysis/README.md)
+
+📌 **Objective:** analyze employee turnover across various dimensions such as department, tenure, job role, age group, and gender. 
 
 📌 **Business Impact:** It enables HR leaders and executives to uncover patterns, identify retention risks, and make data-driven workforce decisions.
 
