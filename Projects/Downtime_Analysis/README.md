@@ -94,7 +94,7 @@ These top five issues contribute to **80% of the total production downtime**.
 ---
 
 ## 📂 Folder Structure
-- [Power BI file]
-- [Source data]
-- [README.md]
+- [Power BI file](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/1a67fe617c6d65229326c76328e8ce60d8ee1b57/Projects/Downtime_Analysis/Downtime%20Analysis.pbix)
+- [Source data](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/1a67fe617c6d65229326c76328e8ce60d8ee1b57/Projects/Downtime_Analysis/Manufacturing_Line_Productivity.xlsx)
+- [README.md](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/main/Projects/Downtime_Analysis/README.md)
 
