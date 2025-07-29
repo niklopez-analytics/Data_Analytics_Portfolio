@@ -1,4 +1,4 @@
-# 📊 Financial Performance Dashboard - Data Analytics Portfolio Project
+# 📊 Financial Performance Dashboard
 
 This interactive **Financial Performance Report** was created to monitor and analyze key financial and operational metrics for a business. Built for executive-level decision-making, the dashboard provides a clear and concise overview of revenue, profit, units sold, product performance, and country-specific performance.
 
