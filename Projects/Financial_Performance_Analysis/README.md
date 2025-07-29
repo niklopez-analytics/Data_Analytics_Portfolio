@@ -92,5 +92,5 @@ This interactive **Financial Performance Report** was created to monitor and ana
 ## 📂 Folder Structure
 - [Power BI file](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/7d7ce4c512229c4e03486de428206af9fa133788/Projects/Financial_Performance_Analysis/Financial%20Performance%20Analysis.pbix)
 - [Source data](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/7d7ce4c512229c4e03486de428206af9fa133788/Projects/Financial_Performance_Analysis/Financial%20Dataset%20%20(DSA%20Rev%202024).xlsx)
-- [README.md](https://github.com/niklopez-analytics/Data_Analytics_Portfolio/blob/b0707177218cbe4c416b5f610de5ae399fc6a165/Projects/Financial_Performance_Analysis/README.md)
+- [README.md](Projects/Financial_Performance_Analysis/README.md)
 
